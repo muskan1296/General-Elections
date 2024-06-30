@@ -2,7 +2,7 @@
  The Bharya Janata Party( BJP) has lot of power both nationally( with 240 seats in Lok Sabha) and at
  the state position, grabbing seats in Andhra Pradesh, Odisha, and winning several bye- choices across
  different countries.
- The Indian National Congress( INC) is main opposition in Lok Sabha with 99 seats and is also making
+* The Indian National Congress( INC) is main opposition in Lok Sabha with 99 seats and is also making
  swells in colorful countries' bye- choices.
 * When we look at specic regions
  Andhra Pradesh is each about the Telugu Desam Party( TDP), 135 out of 175 seats.
